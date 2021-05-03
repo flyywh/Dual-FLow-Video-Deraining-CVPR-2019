@@ -15,7 +15,6 @@ In this paper, we address the problem of rain removal from videos by proposing a
 
 ```
 @ARTICLE{Yang_2019_CVPR_Dual_Flow,
-@INPROCEEDINGS{8953822,
   author={Yang, Wenhan and Liu, Jiaying and Feng, Jiashi},
   booktitle={2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
   title={Frame-Consistent Recurrent Video Deraining With Dual-Level Flow}, 

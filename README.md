@@ -14,15 +14,17 @@ In this paper, we address the problem of rain removal from videos by proposing a
 #### If you find the resource useful, please cite the following :- )
 
 ```
-@ARTICLE{Yang_2021_TIP_SGM,
-  author={Yang, Wenhan and Wang, Wenjing and Huang, Haofeng and Wang, Shiqi and Liu, Jiaying},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement}, 
-  year={2021},
   volume={30},
+@ARTICLE{Yang_2019_CVPR_Dual_Flow,
+@INPROCEEDINGS{8953822,
+  author={Yang, Wenhan and Liu, Jiaying and Feng, Jiashi},
+  booktitle={2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={Frame-Consistent Recurrent Video Deraining With Dual-Level Flow}, 
+  year={2019},
+  volume={},
   number={},
-  pages={2072-2086},
-  doi={10.1109/TIP.2021.3050850}}
+  pages={1661-1670},
+  doi={10.1109/CVPR.2019.00176}}
 ```
 <img src="teaser/teaser_dual_flow.png" > 
 

@@ -14,7 +14,6 @@ In this paper, we address the problem of rain removal from videos by proposing a
 #### If you find the resource useful, please cite the following :- )
 
 ```
-  volume={30},
 @ARTICLE{Yang_2019_CVPR_Dual_Flow,
 @INPROCEEDINGS{8953822,
   author={Yang, Wenhan and Liu, Jiaying and Feng, Jiashi},
